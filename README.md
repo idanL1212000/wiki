@@ -1,7 +1,7 @@
 # wiki
 This is a Django-based Wiki application.
 
-## Features:
+### Features:
 
 View Encyclopedia Entries: Users can view existing encyclopedia entries.
 
@@ -15,7 +15,7 @@ Random Page: Users can navigate to a random encyclopedia page.
 
 Markdown Support: Entry content is written in Markdown and rendered as HTML.
 
-## Dependencies:
+### Dependencies:
 
 The project relies on the following Python packages:
 
